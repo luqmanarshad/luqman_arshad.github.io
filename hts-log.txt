@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Aug 2024 00:19:33 at https://portfolio-n4sn.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://portfolio-n4sn.vercel.app/ -O1 "F:httrack\https___portfolio-n4sn.vercel.app_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:19:44	Error: 	"Not Found" (404) at link https://portfolio-n4sn.vercel.app/icon.svg (from https://portfolio-n4sn.vercel.app/)
+00:19:44	Error: 	"Not Found" (404) at link https://portfolio-n4sn.vercel.app/apple-touch-icon.png (from https://portfolio-n4sn.vercel.app/)
+00:19:44	Error: 	"Not Found" (404) at link https://portfolio-n4sn.vercel.app/"data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAFAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIDBBEyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCcXq0sm9lzs9QAAf/Z" (from https://portfolio-n4sn.vercel.app/)
+00:19:44	Error: 	"Not Found" (404) at link https://portfolio-n4sn.vercel.app/assets/resume.pdf (from https://portfolio-n4sn.vercel.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 20 links scanned, 15 files written (532428 bytes overall) [201250 bytes received at 18295 bytes/sec], 503920 bytes transferred using HTTP compression in 14 files, ratio 29%
+(4 errors, 0 warnings, 0 messages)
